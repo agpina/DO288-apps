@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/redhattraning/todo-backend 
+  repository: quay.io/redhattraining/todo-backend 
   pullPolicy: Always 
   # Overrides the image tag whose default is the chart appVersion.
   tag: "release-46"
